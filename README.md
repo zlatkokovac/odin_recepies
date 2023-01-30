@@ -1,2 +1,4 @@
 # odin_recepies
-home recipes (theodinproject)
+Home recipes (theodinproject)
+
+A project on the TheOdinProject to begin practicing website making skills
